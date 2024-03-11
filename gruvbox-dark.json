@@ -25,7 +25,7 @@
 
         "large.shadow": "00000085%",
 
-        "border.@focused": "Blue 70",
+        "border.@focused": "FG0",
 
         "fill.@secondary": "Gray 30",
 
@@ -52,7 +52,7 @@
 
         "fill.@selected": "Black",
 
-        "text.@selected": "Blue 80",
+        "text.@selected": "FG1",
 
         "fill.@success": "Green 30",
 
@@ -255,7 +255,7 @@
         "editor.caret.fill": "Gray 120",
         "editor.block.caret.text": "Black",
         "editor.currentLine.fill": "White-10",
-        "editor.currentLine.fill.@focused": "3366ff20%",
+        "editor.currentLine.fill.@focused": "#a8998440%",
         "editor.lineNumber.text": "Gray 70",
         "editor.lineNumber.text.@selected": "Gray 110",
         "editor.whitespace.text": "Gray 80",
@@ -1397,6 +1397,11 @@
     "palette": {
         "FG": "#ebdbb2",
         "FG0": "#fbf1c7",
+        "FG1": "#ebdbb2",
+        "BG1": "#3c3836",
+        "BG2": "#504945",
+        "BLUE DARK": "#458588",
+        "BLUE LIGHT": "#83a598",
         "White": "ffffff",
         "White-10": "ffffff10%",
         "Gray 120": "d1d1d1",
@@ -1409,7 +1414,7 @@
         "Gray 50": "383838",
         "Gray 40": "333333",
         "Gray 30": "2d2d2d",
-                "Gray 20": "#3c3836",
+        "Gray 20": "#3c3836",
         "Gray 10": "282828",
         "Black": "282828",
         "Blue 110": "6daaf7",
